@@ -1,0 +1,68 @@
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe.config
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.exe
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.pdb
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.pdb
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.pdb
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.Form1.resources
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.Properties.Resources.resources
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csproj.GenerateResource.Cache
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csprojResolveAssemblyReference.cache
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe.config
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.exe
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.pdb
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.pdb
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.pdb
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csprojResolveAssemblyReference.cache
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.Form1.resources
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.Properties.Resources.resources
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csproj.GenerateResource.Cache
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MySql.Data.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MySql.Data.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe.config
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.exe
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.pdb
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MaterialDesignColors.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Design.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Fonts.dll
+H:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\EASendMail.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MaterialDesignColors.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Design.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Fonts.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\EASendMail.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.pdb
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MaterialDesignColors.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Design.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MetroFramework.Fonts.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\EASendMail.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\MySql.Data.dll
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.pdb
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csprojResolveAssemblyReference.cache
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.Form1.resources
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.Properties.Resources.resources
+G:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormSteganografia.csproj.GenerateResource.Cache
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\FormProva.exe.config
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormProva.exe
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormProva.pdb
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\FormProva.exe
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\FormProva.pdb
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\LibRSA.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\MaterialDesignColors.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\MetroFramework.Design.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\MetroFramework.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\EASendMail.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\MySql.Data.dll
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\bin\Debug\LibRSA.pdb
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormSteganografia.csprojResolveAssemblyReference.cache
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormSteganografia.Form1.resources
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormProva.Properties.Resources.resources
+C:\Users\MARC0\Desktop\Bckup 12_06_16\RSA\FormProva\obj\Debug\FormSteganografia.csproj.GenerateResource.Cache

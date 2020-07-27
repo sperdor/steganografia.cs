@@ -1,0 +1,11 @@
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe.config
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.exe
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\FormProva.pdb
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.dll
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\bin\Debug\LibRSA.pdb
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.csprojResolveAssemblyReference.cache
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.Form1.resources
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.Properties.Resources.resources
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.csproj.GenerateResource.Cache
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.exe
+F:\5AIA\CriptatoreDiImmaginiFigoConRSA\RSA\FormProva\obj\Debug\FormProva.pdb
